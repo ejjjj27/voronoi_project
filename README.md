@@ -1,5 +1,9 @@
 # VORONOI DIAGRAM PROJECT
-**資工系碩一 M133040097 陳宜杰**
+**資工系碩一 M133040097 陳宜杰**  
+  
+> **打包工具&指令**  
+> pip install pyinstaller  
+> pyinstall --onefile main.py
 ## 軟體規格書 :
 ###  輸出與輸入（資料）規格 :
 - 輸出 : 在畫布上任意點擊以新增點；可以讀入點集資料，格式如vd_testdata.in(有干擾資料，以#為開頭)、vd_testdata_pure.in
